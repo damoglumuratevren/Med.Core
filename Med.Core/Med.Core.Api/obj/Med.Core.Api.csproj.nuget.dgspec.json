@@ -1,0 +1,365 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Api\\Med.Core.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Api\\Med.Core.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Api\\Med.Core.Api.csproj",
+        "projectName": "Med.Core.Api",
+        "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Api\\Med.Core.Api.csproj",
+        "packagesPath": "C:\\Users\\damog\\.nuget\\packages\\",
+        "outputPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\damog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Application\\Med.Core.Application.csproj": {
+                "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Application\\Med.Core.Application.csproj"
+              },
+              "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj": {
+                "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj"
+              },
+              "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Infrastructure\\Med.Core.Infrastructure.csproj": {
+                "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Infrastructure\\Med.Core.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Application\\Med.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Application\\Med.Core.Application.csproj",
+        "projectName": "Med.Core.Application",
+        "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Application\\Med.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\damog\\.nuget\\packages\\",
+        "outputPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\damog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj": {
+                "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj"
+              },
+              "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Infrastructure\\Med.Core.Infrastructure.csproj": {
+                "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Infrastructure\\Med.Core.Infrastructure.csproj"
+              },
+              "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Persistance\\Med.Core.Persistance.csproj": {
+                "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Persistance\\Med.Core.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj",
+        "projectName": "Med.Core.Domain",
+        "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\damog\\.nuget\\packages\\",
+        "outputPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\damog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Infrastructure\\Med.Core.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Infrastructure\\Med.Core.Infrastructure.csproj",
+        "projectName": "Med.Core.Infrastructure",
+        "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Infrastructure\\Med.Core.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\damog\\.nuget\\packages\\",
+        "outputPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\damog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj": {
+                "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj"
+              },
+              "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Persistance\\Med.Core.Persistance.csproj": {
+                "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Persistance\\Med.Core.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Persistance\\Med.Core.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Persistance\\Med.Core.Persistance.csproj",
+        "projectName": "Med.Core.Persistance",
+        "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Persistance\\Med.Core.Persistance.csproj",
+        "packagesPath": "C:\\Users\\damog\\.nuget\\packages\\",
+        "outputPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\damog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj": {
+                "projectPath": "D:\\Programlama\\Med.Core\\Med.Core\\Med.Core.Domain\\Med.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

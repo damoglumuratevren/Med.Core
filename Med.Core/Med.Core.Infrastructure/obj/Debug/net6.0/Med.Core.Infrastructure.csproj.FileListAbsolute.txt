@@ -1,0 +1,17 @@
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\bin\Debug\net6.0\Med.Core.Infrastructure.deps.json
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\bin\Debug\net6.0\Med.Core.Infrastructure.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\bin\Debug\net6.0\Med.Core.Infrastructure.pdb
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\Med.Core.Infrastructure.csproj.AssemblyReference.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\Med.Core.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\Med.Core.Infrastructure.AssemblyInfoInputs.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\Med.Core.Infrastructure.AssemblyInfo.cs
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\Med.Core.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\Med.Core.Infrastructure.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\refint\Med.Core.Infrastructure.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\Med.Core.Infrastructure.pdb
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\ref\Med.Core.Infrastructure.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\bin\Debug\net6.0\Med.Core.Domain.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\bin\Debug\net6.0\Med.Core.Persistance.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\bin\Debug\net6.0\Med.Core.Domain.pdb
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\bin\Debug\net6.0\Med.Core.Persistance.pdb
+D:\Programlama\Med.Core\Med.Core\Med.Core.Infrastructure\obj\Debug\net6.0\Med.Core.Infrastructure.csproj.CopyComplete

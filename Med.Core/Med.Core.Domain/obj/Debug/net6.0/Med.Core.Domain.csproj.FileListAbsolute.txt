@@ -1,0 +1,12 @@
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\bin\Debug\net6.0\Med.Core.Domain.deps.json
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\bin\Debug\net6.0\Med.Core.Domain.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\bin\Debug\net6.0\Med.Core.Domain.pdb
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\obj\Debug\net6.0\Med.Core.Domain.csproj.AssemblyReference.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\obj\Debug\net6.0\Med.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\obj\Debug\net6.0\Med.Core.Domain.AssemblyInfoInputs.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\obj\Debug\net6.0\Med.Core.Domain.AssemblyInfo.cs
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\obj\Debug\net6.0\Med.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\obj\Debug\net6.0\Med.Core.Domain.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\obj\Debug\net6.0\refint\Med.Core.Domain.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\obj\Debug\net6.0\Med.Core.Domain.pdb
+D:\Programlama\Med.Core\Med.Core\Med.Core.Domain\obj\Debug\net6.0\ref\Med.Core.Domain.dll

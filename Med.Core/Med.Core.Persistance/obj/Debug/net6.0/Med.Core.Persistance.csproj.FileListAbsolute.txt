@@ -1,0 +1,17 @@
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\bin\Debug\net6.0\Med.Core.Persistance.deps.json
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\bin\Debug\net6.0\Med.Core.Persistance.runtimeconfig.json
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\bin\Debug\net6.0\Med.Core.Persistance.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\bin\Debug\net6.0\Med.Core.Persistance.pdb
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\Med.Core.Persistance.csproj.AssemblyReference.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\Med.Core.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\Med.Core.Persistance.AssemblyInfoInputs.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\Med.Core.Persistance.AssemblyInfo.cs
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\Med.Core.Persistance.csproj.CoreCompileInputs.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\Med.Core.Persistance.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\refint\Med.Core.Persistance.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\Med.Core.Persistance.pdb
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\Med.Core.Persistance.genruntimeconfig.cache
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\ref\Med.Core.Persistance.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\bin\Debug\net6.0\Med.Core.Domain.dll
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\bin\Debug\net6.0\Med.Core.Domain.pdb
+D:\Programlama\Med.Core\Med.Core\Med.Core.Persistance\obj\Debug\net6.0\Med.Core.Persistance.csproj.CopyComplete

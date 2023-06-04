@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Med.Core.Api.props" />
+</Project>
