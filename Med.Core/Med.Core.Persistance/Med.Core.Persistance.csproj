@@ -20,8 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ORM\EntityFramework\Configurations\" />
-    <Folder Include="ORM\EntityFramework\Contexts\" />
     <Folder Include="ORM\EntityFramework\Identity\" />
   </ItemGroup>
 

@@ -232,6 +232,9 @@
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "Med.Core.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.16"
+        },
         "runtime": {
           "Med.Core.Domain.dll": {}
         }

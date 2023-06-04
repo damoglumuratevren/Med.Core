@@ -725,6 +725,9 @@
       "Med.Core.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.16"
+        },
         "compile": {
           "bin/placeholder/Med.Core.Domain.dll": {}
         },
